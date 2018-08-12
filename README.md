@@ -6,3 +6,6 @@ load the entire repository via chrome extensions by enabling developer options a
 Note : sounds present on this project are not mine , all of them are received from other websites , i don't own any content of music .
 
 if you want to replace music you can goahead and replace it with whatever you deem to  use just replace it with same name .
+
+
+clicking in option page of extension ( right click on extension and select option page ) gives you few more options on different sounds for browser startup .
