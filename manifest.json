@@ -1,0 +1,19 @@
+{
+	"manifest_version":2 ,
+	"name": "ModemDiallUp" ,
+	"version": "1.0" , 
+	"description": "plays dialup sound when browser stars ",
+	"icons" : {
+		"128": "Sounds.png",
+		"48" :  "Sounds.png",
+		"16" : "Sounds.png"
+	},
+	"options_page" : "option.html" ,
+	"background" : {
+		"scripts" : ["background.js"] ,
+		"persistent" : true	
+	},
+	"permissions": [
+		"storage"
+	]
+}
